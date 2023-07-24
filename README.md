@@ -17,7 +17,7 @@ The RF Data needs to be saved in a one-dimensional vector in the order of [Sampl
 
 Bmode Image 
 
-<img src="examples/GPUBmode.PNG" width="800px"/>
+<img src="examples/GPUBF.PNG" width="800px"/>
 
 
 
