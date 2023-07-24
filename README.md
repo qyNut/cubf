@@ -15,9 +15,13 @@ The RF Data needs to be saved in a one-dimensional vector in the order of [Sampl
 # Example of Reconstructed Image
 - Signal acquired from a Rat Brain
 
-Bmode Image 
+Reconstructed Image 
 
-<img src="examples/GPUBF.PNG" width="800px"/>
+<img src="examples/GPUBF2.PNG" width="800px"/>
+
+Reconstructed Microbubble Movie
+
+https://github.com/qyNut/cubf/assets/136265803/793d6afc-4c84-4fa3-96af-f64cab7af0cd
 
 
 
